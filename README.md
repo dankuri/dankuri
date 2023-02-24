@@ -2,4 +2,3 @@
 - 👀 I’m interested in software development and contributing to oss
 - 🌱 I’m currently learning full-stack dev w/ typescript / fastify / rust 
 - 💞️ I’m looking to collaborate on creating cool oss projects
-- 
