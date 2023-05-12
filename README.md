@@ -1,4 +1,4 @@
 - 👋 The name is the @dankuri
 - 👀 I’m interested in software development and contributing to oss
-- 🌱 I’m currently learning full-stack dev w/ typescript / fastify / rust 
-- 💞️ I’m looking to collaborate on creating cool oss projects
+- 🌱 I’m currently learning full-stack dev w/ typescript / vue / fastify / rust / go
+- 💞️ I’m looking to collaborate on creating cool projects
