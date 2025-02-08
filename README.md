@@ -1,5 +1,3 @@
-- 👋 The name is the @dankuri
-- 👀 I’m interested in software development and contributing to oss
-- 🌱 I’m currently learning full-stack dev w/ go / typescript / vue / react / fastify / rust
-- 💞️ I’m looking to collaborate on creating cool projects
-- 💬 You can find me on discord: dankurius
+The dang bangovich.
+neovim, golang, elixir & zig shill
+spread terminal love and start editor wars.
